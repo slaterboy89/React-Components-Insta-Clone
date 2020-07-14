@@ -13,7 +13,7 @@ const SearchBar = (props) => {
       </div>
       <form className="search-form">
         <input
-          type="text"
+          type="text" 
           placeholder="Search"
         />
       </form>
